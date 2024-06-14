@@ -6,7 +6,7 @@ Link: https://t.me/BDSM_car_bot <br />
 The bot is currently disabled. Ask if you want to see how it works.<br /><br />
 
 # Structure<br /><br />
-1. 'storage folder' - Folder with saved index structure. Here stored latest index and it is used for fast bot setup.<br />
+1. 'storage' folder - Folder with saved index structure. Here stored latest index and it is used for fast bot setup.<br />
 2. 'tests_and_preparations.ipynb' - Jyputer Notebook with all relevant steps and tests to parse data, create index and chat with LLM model.<br />
 3. 'chatbot.py' - Main code with TelegramBot. Here you need to specify your Telebot Token.<br />
 4. 'environment.yml' - requirements with all libraries needed.<br /><br />
